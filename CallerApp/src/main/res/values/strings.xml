@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Xebia Caller</string>
+    <string name="e_hint">Type name, number, designation or location</string>
+    <string name="splash_text">Connecting Xebians&#8230;</string>ß
+    <string name="action_settings">Settings</string>
+
+</resources>
